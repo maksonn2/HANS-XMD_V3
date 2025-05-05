@@ -5,9 +5,9 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "HANSTZ$g95u7vAL",
+SESSION_ID: process.env.SESSION_ID || "HansTz&wKdGCS6L#C46B-MOTi5Il3EAzsamBRucLsojNn2JgxONCZrgmqu4",
 // add your Session Id 
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
@@ -21,9 +21,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://raw.githubusercontent.com
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "HANS-XMD_V3",
+BOT_NAME: process.env.BOT_NAME || "🌹 𝐃𝐀𝐁𝛯𝐍𝐒𒁂⃝𐏓ᬁ𝗠𝗣𝗞⍣᭄ 🌹",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "HansTz/Hans-Xmd",
+STICKER_NAME: process.env.STICKER_NAME || "ÐΛБΞЛS ΞŁ mpК             .                .            .       .         .",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -33,7 +33,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "18295595096",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Hans Tᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "ÐΛБΞЛS ΞŁ mpК             .                .            .       .         .",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Hans-Xmd_V3*",
 // add bot owner name    
@@ -59,7 +59,7 @@ AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
-PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
+PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
